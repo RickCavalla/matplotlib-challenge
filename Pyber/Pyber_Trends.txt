@@ -1,0 +1,5 @@
+Three trends seen in Pyber data:
+
+1). Urban dominates in sheer totals for rides, fares, and drivers.
+2). Suburban/rural lags in totals, but the average fare per trip is consistently higher than urban.
+3). It is not clear from data why there are high average fares in suburban/rural cities.  Longer rides?  Not enough drivers, so people are willing to pay a premium to get a ride?  If the latter, Pyber may want to look into ways to recruit more drivers in suburban/urban areas.
